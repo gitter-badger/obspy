@@ -1,4 +1,5 @@
 ## ObsPy: A Python Toolbox for seismology/seismological observatories.
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/olstar/obspy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://secure.travis-ci.org/obspy/obspy.png?branch=master)](https://travis-ci.org/obspy/obspy)
 [![PEP8 Status](https://www.obspy.org/pep8.png)](http://pep8.obspy.org)
